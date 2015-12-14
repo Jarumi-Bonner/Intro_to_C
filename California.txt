@@ -1,0 +1,10 @@
+Desktop_computer 100
+Desktop_screen 100
+Desktop_keyboard 100
+TV_set 80
+Audio_system 75
+Key 75
+Bed 65
+Ball 65
+Lamp 50
+Hibachi 35
